@@ -2,7 +2,6 @@
 """
 Created on Mon Mar 16 17:03:17 2020
 
-@author: windows 10
 """
 
 import numpy as np
